@@ -4,16 +4,17 @@ I'm a junior frontend developer passionate about crafting clean and user-friendl
 
 ## 🔭 I’m currently working on...
 
-- Enhancing my skills in HTML, CSS, and JavaScript.
-- Exploring modern frontend frameworks like React and Vue.js.
+- Enhancing my skills in HTML, CSS, JavaScript and TypeScript.
+- Exploring advanced concepts in React.
+- Learning and exploring backend technologies like Node.js with Express.js, MongoDB, and PostgreSQL.
 - Contributing to open-source projects to learn and collaborate with others.
+
 
 ## 💼 Skills
 
 - **Languages:** HTML, CSS, JavaScript
 - **Frameworks/Libraries:** React.js
 - **Version Control:** Git
-- **Design Tools:** Adobe Photoshop, Figma
 - 
 
   ## 🌐 Portfolio
