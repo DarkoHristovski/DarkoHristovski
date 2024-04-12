@@ -17,7 +17,7 @@ I'm a junior frontend developer passionate about crafting clean and user-friendl
 - **Version Control:** Git
 
 
-  ## 🌐 Portfolio
+## 🌐 Portfolio
 
 Check out my portfolio: [darkohristovski.netlify.app](https://darkohristovski.netlify.app/)
 
