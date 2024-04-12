@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there, I'm Darko Hristovski! 👋
 
-<!--
-**DarkoHristovski/DarkoHristovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior frontend developer passionate about crafting clean and user-friendly web experiences. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🔭 I’m currently working on...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Enhancing my skills in HTML, CSS, and JavaScript.
+- Exploring modern frontend frameworks like React and Vue.js.
+- Contributing to open-source projects to learn and collaborate with others.
+
+## 💼 Skills
+
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks/Libraries:** React.js
+- **Version Control:** Git
+- **Design Tools:** Adobe Photoshop, Figma
+- 
+
+  ## 🌐 Portfolio
+
+Check out my portfolio: [darkohristovski.netlify.app](https://darkohristovski.netlify.app/)
+
+
+## 📫 How to reach me
+
+- LinkedIn: [Darko Hristovski](https://www.linkedin.com/in/darko-hristovski/)
+- Email: [hristovski15@gmail.com](mailto:hristovski15@gmail.com)
