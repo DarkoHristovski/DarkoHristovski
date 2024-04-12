@@ -15,7 +15,7 @@ I'm a junior frontend developer passionate about crafting clean and user-friendl
 - **Languages:** HTML, CSS, JavaScript
 - **Frameworks/Libraries:** React.js
 - **Version Control:** Git
-- 
+
 
   ## 🌐 Portfolio
 
